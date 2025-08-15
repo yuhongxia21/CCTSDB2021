@@ -1,13 +1,12 @@
 # CCTSDB2021
-#
 
-# 1. 数据集通过谷歌云端硬盘发布（Google Drive）
+# 1. The dataset is released via Google Drive.
 CCTSDB2021： https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5m8ZMFn?usp=sharing
 <p>
 
-# 2. 数据集通过百度网盘发布
-链接：https://pan.baidu.com/s/1hyGmwLzcPi21XEP1MQsj5Q 
-<p>提取码：nygx
+# 2. The dataset is released via Baidu Netdisk
+Link: https://pan.baidu.com/s/1hyGmwLzcPi21XEP1MQsj5Q 
+Extraction code: nygx
 
 # 3. If you use this dataset, please cite the following papers: </p>
 请帮忙引用：</p>
@@ -18,7 +17,7 @@ CCTSDB2021： https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5
 </p>
 [5] Jianming Zhang, Wei Wang, Chaoquan Lu, Jin Wang, Arun Kumar Sangaiah. Lightweight deep network for traffic sign classification. Annals of Telecommunications, 2020, vol. 75, no. 7-8, pp. 369-379. DOI: 10.1007/s12243-019-00731-9. </p>
 [6] Jianming Zhang, Zhipeng Xie, Juan Sun, Xin Zou, Jin Wang. A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection. IEEE Access, 2020, vol. 8, pp. 29742-29754. DOI: 10.1109/ACCESS.2020.2972338. </p>
-[7] 李旭东, 张建明, 谢志鹏, 王进. 基于三尺度嵌套残差结构的交通标志快速检测算法. 计算机研究与发展, 2020, 57(5): 1022-1036. DOI: 10.7544/issn1000-1239.2020.20190445.
+[7] Xudong Li, Jianming Zhang, Zhipeng Xie, Jin Wang. Fast traffic sign detection algorithm based on three-scale nested residual structure. Journal of Computer Research and Development, 2020, 57(5): 1022-1036. DOI: 10.7544/issn1000-1239.2020.20190445.
 
 
 # 4. CCTSDB2021 HELP
@@ -31,4 +30,10 @@ CCTSDB2021： https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5
 </p>The "test_img" compressed package stores the positive sample test set image.
 </p>The "classification based on weather and environment" compressed package stores the XML format annotation file of the positive sample test set classified according to the weather and lighting conditions.
 </p>The "classification based on size of traffic signs" compressed package stores the XML format annotation file of the positive sample test set classified according to the size of traffic signs in the image.
-</p>"Negative samples" contains 500 negative sample images.
+</p>"Negative samples" contains 500 negative sample images.](https://github.com/yuhongxia21/CCTSDB2021/edit/main/README.md)
+](https://github.com/yuhongxia21/CCTSDB2021/edit/main/README.md)
+
+
+This repository is a forked and translated version of the original CCTSDB2021 dataset repository:  
+Original repository: https://github.com/csust7zhangjm/CCTSDB2021  
+All dataset rights and original content belong to the original authors.
