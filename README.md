@@ -1,4 +1,4 @@
-[# CCTSDB2021
+# CCTSDB2021
 
 # 1. The dataset is released via Google Drive.
 CCTSDB2021： https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5m8ZMFn?usp=sharing
@@ -30,8 +30,7 @@ Extraction code: nygx
 </p>The "test_img" compressed package stores the positive sample test set image.
 </p>The "classification based on weather and environment" compressed package stores the XML format annotation file of the positive sample test set classified according to the weather and lighting conditions.
 </p>The "classification based on size of traffic signs" compressed package stores the XML format annotation file of the positive sample test set classified according to the size of traffic signs in the image.
-</p>"Negative samples" contains 500 negative sample images.](https://github.com/yuhongxia21/CCTSDB2021/edit/main/README.md)
-](https://github.com/yuhongxia21/CCTSDB2021/edit/main/README.md)
+</p>"Negative samples" contains 500 negative sample images.
 
 
 This repository is a forked and translated version of the original CCTSDB2021 dataset repository:  
